@@ -1,7 +1,8 @@
 /*
  ============================================================================
 SABRINA ROJAS 1D
-Ejercicio 2-3: Usando el concepto de operadores lógicos booleanos en el condicional.
+Ejercicio 2-3: *
+Usando el concepto de operadores lógicos booleanos en el condicional.
 Solicitar un número al usuario e informar si el número es par o impar.
  ============================================================================
  */

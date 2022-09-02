@@ -1,7 +1,7 @@
 /*
  ============================================================================
  SABRINA ROJAS ADORNO 1D
-Ejercicio 2-4:
+Ejercicio 2-4: *
 Ingresar 8 números enteros, distintos de cero. Mostrar:
 a. El menor número ingresado.
 b. De los pares el mayor número ingresado.

@@ -1,6 +1,7 @@
 /*
  ============================================================================
  SABRINA ROJAS 1D
+ Ejercicio 2-6 *
 Ingresar 5 caracteres e informar cuantas letras m (minúsculas) se ingresaron.
  ============================================================================
  */

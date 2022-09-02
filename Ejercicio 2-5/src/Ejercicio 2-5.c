@@ -1,8 +1,7 @@
 /*
  ============================================================================
  SABRINA ROJAS 1D
-
-Ejercicio 2-5:
+Ejercicio 2-5:*
 Debemos generar el pedido de libretas universitarias a la imprenta para los alumnos
 al regreso a la presencialidad. De cada persona debemos obtener los siguientes
 datos:
@@ -184,12 +183,6 @@ int main()
 		}
 	}
 
-	/*if(contadorSesenta > 0)
-	{
-		descuentoSesenta =(float) (LIBRETA * 25 / 100) * contadorSesenta;
-		valorConDescuento = precioTotalLibretas - descuentoSesenta;
-	}
-	*/
 
 	//A
 	if(contadorSesenta != 0)
